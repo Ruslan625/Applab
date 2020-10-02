@@ -86,7 +86,7 @@ height: 150px;
 
 }
 .awards__icon{
-    display: inline-block;
+    display: flex;
     background: #feaa25;
     height: 35px;
     width: 35px;
